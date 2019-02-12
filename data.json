@@ -1,0 +1,22 @@
+{
+    "customers":[
+        {
+            "idx":"1",
+            "name": "Johne Doe",
+            "email": "email",
+            "age": 34
+        },
+        {
+            "id":"2",
+            "name": "Rahul Doe",
+            "email": "email",
+            "age": 31
+        },
+        {
+            "id":"3",
+            "name": "Lallan Doe",
+            "email": "email",
+            "age": 32
+        }
+    ]
+}
